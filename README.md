@@ -1,2 +1,1 @@
-# nik-dange
-This is my third repository
+### 👋 Hi there, I'm Nikhil!
